@@ -1,8 +1,8 @@
 """Create tables with relationships
 
-Revision ID: 61ed85a84c10
+Revision ID: 7900e94a05d2
 Revises: 
-Create Date: 2026-10-17 13:09:59.194089
+Create Date: 2026-11-03 11:41:36.372139
 
 """
 from alembic import op
@@ -10,7 +10,7 @@ import sqlalchemy as sa
 
 
 # revision identifiers, used by Alembic.
-revision = '61ed85a84c10'
+revision = '7900e94a05d2'
 down_revision = None
 branch_labels = None
 depends_on = None
